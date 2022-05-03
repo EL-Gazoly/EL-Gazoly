@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adham El-Gazoly</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=el-gazoly&label=Profile%20views&color=0e75b6&style=flat" alt="el-gazoly" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el-gazoly" alt="el-gazoly" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js and react**
 
