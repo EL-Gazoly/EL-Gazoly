@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adham El-Gazoly</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 
-- I am a ***Senior* at Faculty of Computer Science & Information Systems at Ain-Shams University**
+- 🏫I am a ***Senior* at Faculty of Computer Science & Information Systems at Ain-Shams University**
 
 - 🌱 I’m currently learning **Node.js and react**
 
@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-gazoly&show_icons=true&locale=en&layout=compact" alt="el-gazoly" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=el-gazoly&show_icons=true&locale=en" alt="el-gazoly" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-gazoly&" alt="el-gazoly" /></p>
