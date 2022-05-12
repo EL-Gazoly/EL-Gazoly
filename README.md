@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Node.js and react**
 
-- 🤓 Alwaysm learning new things
-
 - 🤔 I’m currently open for **An Intern or a new job opportunity**
 
 - 📫 How to reach me **elgazoly11@gmail.com**
