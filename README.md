@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js and react**
 
-- 🤓 Always [learning new things](learning new things)
+- 🤓 Alwaysm learning new things
 
 - 🤔 I’m currently open for **An Intern or a new job opportunity**
 
