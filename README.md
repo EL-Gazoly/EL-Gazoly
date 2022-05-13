@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-  [<img align="left" alt="Adham_El-Gazoly| email" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](mailto:https://www.linkedin.com/in/adham-el-gazoly-075385190/)
+  [<img align="center" alt="Adham_El-Gazoly| email" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](mailto:https://www.linkedin.com/in/adham-el-gazoly-075385190/)
 
   [<img align="left" alt="El-Gazoly | email" width="35px" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" />](mailto:elgazoly11@gmail.com)
  
