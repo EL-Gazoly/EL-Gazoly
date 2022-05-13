@@ -1,4 +1,4 @@
-### Hi 👋, I'm Adham El-Gazoly</h1>
+<h1 align="center" >👋, I'm Adham El-Gazoly</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
 - 🏫I am a ***Senior* at Faculty of Computer Science & Information Systems at Ain-Shams University**
