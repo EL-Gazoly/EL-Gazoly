@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img align="left" alt="elgazoly11 | email" width="22px" src="Images/gmail.png" />](mailto:elgazoly11@gmail.com)
+[<img align="left" alt="elgazoly11 | email" width="22px" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" />](mailto:elgazoly11@gmail.com)
 <p align="left">
 <a href="https://www.linkedin.com/in/adham-el-gazoly-075385190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adham el-gazoly" height="30" width="40" /></a>
 </p>
