@@ -7,7 +7,6 @@
 
 - 🤔 I’m currently open for **An Intern or a new job opportunity**
 
-- 📫 How to reach me **elgazoly11@gmail.com**
 
 - MY RESUME [https://drive.google.com/file/d/1oGhOYGYef-sVjwCmipQwdDcyxGLqHBGc/view?usp=sharing](https://drive.google.com/file/d/1PDF4oehk6z1bwISMOn0YJJXous-uzVBY/view?usp=sharing)
 
