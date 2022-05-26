@@ -1,6 +1,9 @@
 <h1 align="center" >👋, I'm Adham El-Gazoly</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+
 - 🏫I am a ***Senior* at Faculty of Computer Science & Information Systems at Ain-Shams University**
 
 - 🌱 I’m currently learning **Node.js and react**
