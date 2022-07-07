@@ -9,7 +9,7 @@
 - 🤔 I’m currently open for **An Intern or a new job opportunity**
 
 
-- MY RESUME [https://drive.google.com/file/d/1oGhOYGYef-sVjwCmipQwdDcyxGLqHBGc/view?usp=sharing](https://drive.google.com/file/d/1PDF4oehk6z1bwISMOn0YJJXous-uzVBY/view?usp=sharing)
+- MY RESUME [https://app.flowcv.com/resume-feedback/MMVSrPpbLn9GgYiRceIg5)
 
 ## Connect with me
 
