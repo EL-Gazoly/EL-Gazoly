@@ -1,5 +1,6 @@
 <h1 align="center" >👋, I'm Adham El-Gazoly</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyption+Software+Engineer;Full-Stack+Developer+;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 - 🏫I am a ***Senior* at Faculty of Computer Science & Information Systems at Ain-Shams University**
