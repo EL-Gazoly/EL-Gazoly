@@ -11,7 +11,7 @@
 - 🤔 I’m currently open for **An Intern or a new job opportunity**
 
 
-- MY RESUME [https://app.flowcv.com/resume-feedback/MMVSrPpbLn9GgYiRceIg5)
+  - <a href="https://flowcv.com/resume/it1if5hd2e" target="_blank">MY RESUME</a>
 
 ## Connect with me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adham-el-gazoly-075385190/)
