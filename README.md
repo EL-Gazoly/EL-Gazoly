@@ -6,7 +6,7 @@
 
 - 🏫I am a ***Full Stack developer* at Bright vision Technology**
 
-- 🤔 I’m currently open for **A Part time job opportunity**
+- 🤔 I’m currently open for **A Full time job opportunity**
 
 
   - <a href="https://flowcv.com/resume/it1if5hd2e" target="_blank">MY RESUME</a>
