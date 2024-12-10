@@ -1,4 +1,4 @@
-<h1 align="center" ><div align=center><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Adham El-Gazoly</h1>
+<h1 align="center" ><div align=center><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Adam El-Gazoly</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyptian+Software+Engineer;Full-Stack+Developer+;Nice+to+meet+you...)](https://git.io/typing-svg)
 
